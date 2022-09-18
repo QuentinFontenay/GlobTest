@@ -17,8 +17,6 @@ Le challenge, si vous l'acceptez, serait d'aider Echo à comprendre ce que fait 
 
 ### Question 1
 
-Expliquez, en quelques lignes, ce que fait cette fonction.
-
 Cette fonction permet de trier les intervalles par ordre croissant en fusionnant si possible les intervalles qui se
 chevauche. Si les deux nombres de l'intervalle sont supérieurs au deuxième nombre de l'intervalle présent dans le
 résultat alors un nouvel intervalle est créé dans le tableau des résultats.
@@ -33,8 +31,6 @@ Merci de fournir un fichier contenant :
 - l'affichage du résultat en sortie.
 
 ### Question 3
-
-Précisez en combien de temps vous avez implémenté cette fonction.
 
 J'ai implémenté cette fonction en 1h10
 
